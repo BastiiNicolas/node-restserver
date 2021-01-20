@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecffbb51-6bef-4b0c-be6a-107bac73e625" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/models/usuario.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/usuario.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/config/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611069102698</updated>
       <workItem from="1611069103908" duration="7391000" />
-      <workItem from="1611105123142" duration="4240000" />
+      <workItem from="1611105123142" duration="5067000" />
     </task>
     <servers />
   </component>
